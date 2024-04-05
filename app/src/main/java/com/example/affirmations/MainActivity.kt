@@ -32,7 +32,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun AffirmationsApp(modifier: Modifier = Modifier) {
     Text(
-        text = "Hello $name!",
+        text = "Hello",
         modifier = modifier
     )
 }
